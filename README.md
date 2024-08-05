@@ -48,7 +48,9 @@ Our robot features an extensive array of sensors and control interfaces, designe
 The arm includes a gripper, distance sensor, and color sensor, all controlled by two servo motors. The gripper operates via a small servo motor (SG90), providing horizontal movement, while a larger servo motor (MG995) manages vertical movement. Sensors on the gripper enhance the arm's capabilities.
 
 ## Team Effort:
-We appreciate the dedication and teamwork from all members, which was crucial for the success of this project.
+Above works were done by Dinethra(@DinethraDivanjana2001) Yasith Silva (@yasith46), Bimsara Nawarathne (@bimsaranawa), Isuranga Senavirathne (@isuranga1) and Julian Silva (@JulianSilva2001).
+
+
 
 ## Lessons Learned:
 - Understanding the importance of flexibility and problem-solving in robotics.
